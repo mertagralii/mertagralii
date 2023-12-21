@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5616AQF9dkfbytA1-w/profile-displaybackgroundimage-shrink_200_800/0/1516836954154?e=2147483647&v=beta&t=bbRJhVh0YE7No2QyWuFmIDuvZDJkFJ05mcr8-oUy33Q)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Mert Ağralı</h1>
 <h3 align="center">A passionate Back-End Developer from Turkey</h3>
