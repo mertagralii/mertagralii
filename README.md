@@ -8,6 +8,7 @@
 
 - 📩 How to reach me **mmertagrali@gmail.com**
 
+- 👀 I have an associate degree in Computer Programming and I am studying Management Information Systems as an undergraduate at Istanbul Gelişim University.
 <h3 align="left"> 🤝🏻 Social:</h3>
 <p align="left">
 <a href="https://twitter.com/mertagraliy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mertagraliy" height="30" width="40" /></a>
