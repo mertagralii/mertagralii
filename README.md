@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mert Ağralı</h1>
 <h3 align="center">A passionate Back-End Developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952o6f53olaej2zzfp01a1efsm492smafy9u09onh30&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 - 🌱 I’m currently learning **Back-End Developer**
 
