@@ -9,7 +9,7 @@ After graduating with a degree in Computer Programming in 2021, I continued my s
 <a href="https://github.com/mertagralii?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mertagralii?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/mertagralii?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" target="_blank" src="https://custom-icon-badges.demolab.com/github/stars/mertagralii?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mertagralii?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
@@ -17,12 +17,12 @@ After graduating with a degree in Computer Programming in 2021, I continued my s
 ### Connect with me:
 
 <p align="left">
-<a href="https://www.mertagrali.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/80307/world.svg" alt="mertagraliy" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mert-a%C4%9Fral%C4%B1-21139a238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mert ağralı" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19866779/mert-a%c4%9fral%c4%b1?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19866779" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mertagrali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mertagrali" height="30" width="40" /></a>
-<a href="https://instagram.com/merttagralii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="merttagralii" height="30" width="40" /></a>
-<a href="https://twitter.com/mertagraliy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mertagraliy" height="30" width="40" /></a>
+<a href="https://www.mertagrali.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/80307/world.svg" alt="mertagraliy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mert-a%C4%9Fral%C4%B1-21139a238/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mert ağralı" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19866779/mert-a%c4%9fral%c4%b1?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19866779" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mertagrali" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mertagrali" height="30" width="40" /></a>
+<a href="https://instagram.com/merttagralii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="merttagralii" height="30" width="40" /></a>
+<a href="https://twitter.com/mertagraliy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mertagraliy" height="30" width="40" /></a>
 </p>
 
 
