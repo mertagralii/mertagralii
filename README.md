@@ -73,9 +73,16 @@ After graduating with a degree in Computer Programming in 2021, I continued my s
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertagralii&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=mertagralii&theme=gruvbox&border_radius=4.5) -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mertagralii&theme=default&show_icons=true&hide_border=true&count_private=true" alt="mertagralii's Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertagralii&theme=default&show_icons=true&hide_border=true&layout=compact" alt="mertagralii's Top Languages" />
+    </td>
+  </tr>
+</table>
 
 #
 
