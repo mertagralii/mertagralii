@@ -74,18 +74,17 @@ I’m passionate not only about software but also about fitness, socializing, an
   <a href="https://github.com/mertagralii?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 #
+# 📊 GitHub Stats:
+<br>
 
-### 📊 Stats
+<div>
+<a href="https://github.com/mertagralii/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mertagralii&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400" alt="mertagralii's Stats"/>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mertagralii&theme=default&show_icons=true&hide_border=true&count_private=true" alt="mertagralii's Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertagralii&theme=default&show_icons=true&hide_border=true&layout=compact" alt="mertagralii's Top Languages" />
-    </td>
-  </tr>
-</table>
+  <img src="https://github-readme-stats.vercel.app/api?username=mertagralii&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400" />
 
+</a>
+
+</div>
+<br>
 [website]: https://www.mertagrali.com/Home/Index
