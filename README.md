@@ -81,4 +81,4 @@ I’m passionate not only about software but also about fitness, socializing, an
 
 </div>
 <br>
-[website]: https://www.mertagrali.com/Home/Index
+
