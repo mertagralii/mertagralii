@@ -2,14 +2,7 @@
 
 **`Software Developer ( .NET | SQL | OOP )`**
 
-After graduating with a degree in Computer Programming in 2021, I continued my studies in Management Information Systems and transferred to Istanbul Nişantaşı University in 2024.
-My software journey began with formal education while simultaneously trying to teach myself programming through online videos, reading documents, and self-study. In addition, I am continuing to develop my skills through Back-End Software Specialist training at Istanbul Nişantaşı University AcunMedya Academy, where I am learning from expert mentors.
-
-I am actively developing my skills in Back-End development and keeping up with the latest trends in software. I am proficient in technologies such as C#, .NET, SQL, Dapper, ASP.NET Core MVC, .NET API, Entity Framework. Additionally, I have knowledge of HTML, CSS, Bootstrap, JavaScript in front-end and software development. I also have experience with version control systems such as Git and GitHub.
-
-I have gained experience in database management, system architecture, and API development and work as a team player who is collaborative, solution-oriented, and driven by an entrepreneurial spirit. I’m not just focused on software development, but I’m also working towards bringing my own projects to life.
-
-I’m passionate not only about software but also about fitness, socializing, and investment. I’m always striving to self-improve and continue to grow in all aspects of my life.
+Management Information Systems student at Istanbul Nişantaşı University and a dedicated Back-End Developer specializing in .NET technologies. I have activelyprepared for my professional career during my university years through intensivetraining, freelance projects, and industry roles. My goal is to continuously develop my career, gain valuable experience, and step into the sector as a competent .NET Developer.
 
    <p align="left">
   
