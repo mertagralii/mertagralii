@@ -86,19 +86,15 @@ Management Information Systems student at Istanbul Nişantaşı University and a
 
 </p>
 
-## 📈 GitHub Statistics & Trophies
+## 📈 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img width="33%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mertagralii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img width="33%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mertagralii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=mertagralii&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mertagralii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertagralii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mertagralii&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=mertagralii&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 
 ### 📘 My Top Open Source Projects
