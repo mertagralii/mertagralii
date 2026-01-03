@@ -102,7 +102,7 @@ Management Information Systems student at Istanbul Nişantaşı University and a
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
  
   <p align="left">
-     <a href="https://github.com/mertagralii/TodoAppEntityFramework"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mertagralii&repo=TodoAppEntityFramework&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="TodoAppEntityFramework"></a>
+     <a href="https://github.com/mertagralii/InsureYouAI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mertagralii&repo=InsureYouAI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="TodoAppEntityFramework"></a>
     <a href="https://github.com/mertagralii/BlogSitesi"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mertagralii&repo=BlogSitesi&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="BlogSitesi"></a>
     <a href="https://github.com/mertagralii/UrunSatisSistemi"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mertagralii&repo=UrunSatisSistemi&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="UrunSatisSistemi"></a>
     <a href="https://github.com/mertagralii/IlanSistemi"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mertagralii&repo=IlanSistemi&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="IlanSistemi"></a>
