@@ -10,35 +10,81 @@ Management Information Systems student at Istanbul Nişantaşı University and a
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mertagralii?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/mertagralii?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mertagralii?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+          <a href="https://github.com/mertagralii?tab=repositories">
+    <img alt="total repos" title="Total Repositories" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=repo&color=orange&logoColor=white&label=Repos&style=for-the-badge&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmertagralii"/>
+  </a>
+   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=mertagralii&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
    </p>
 
----
 
-### Connect with me:
 
-<p align="left">
-<a href="https://www.mertagrali.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/80307/world.svg" alt="mertagraliy" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mert-a%C4%9Fral%C4%B1-21139a238/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mert ağralı" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19866779/mert-a%c4%9fral%c4%b1?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19866779" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mertagrali" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mertagrali" height="30" width="40" /></a>
-<a href="https://instagram.com/merttagralii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="merttagralii" height="30" width="40" /></a>
-<a href="https://twitter.com/mertagraliy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mertagraliy" height="30" width="40" /></a>
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.mertagrali.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+ <a href="https://www.linkedin.com/in/mert-a%C4%9Fral%C4%B1-21139a238/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://stackoverflow.com/users/19866779/mert-a%c4%9fral%c4%b1?tab=profile" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  <a href="https://www.hackerrank.com/mertagrali" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://instagram.com/merttagralii" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/mertagraliy" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
 
 
-### 🧰 Languages and Tools
-<img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="DotNetCore" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="left" alt="Dot-Net" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
-<img align="left" alt="MicrosoftSqlServer" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Boostrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />          
-<br />
 
-#
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  
+**Backend Development**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Frontend Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Database**
+
+![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+
+**Tools & Technologies**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Concepts & Practices**
+
+![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-000000?style=for-the-badge&logo=solid&logoColor=white)
+
+</p>
+
 
 ### 📘 My Top Open Source Projects
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
@@ -60,18 +106,12 @@ Management Information Systems student at Istanbul Nişantaşı University and a
 
   <a href="https://github.com/mertagralii?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
-#
-# 📊 GitHub Stats:
-<br>
+  <div align="center">
 
-<div>
-<a href="https://github.com/mertagralii/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mertagralii&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400" alt="mertagralii's Stats"/>
+### 💡 *"Clean code always looks like it was written by someone who cares."* – Robert C. Martin
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mertagralii&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400" />
-
-</a>
+**⭐ From [mertagralii](https://github.com/mertagralii)**
 
 </div>
-<br>
+
 
