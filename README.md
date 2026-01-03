@@ -80,10 +80,25 @@ Management Information Systems student at Istanbul Nişantaşı University and a
 
 ![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+ <img src="https://img.shields.io/badge/Dependency_Injection-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="DI"/>
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-000000?style=for-the-badge&logo=solid&logoColor=white)
 
 </p>
+
+## 📈 GitHub Statistics & Trophies
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mertagralii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertagralii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mertagralii&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mertagralii&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 
 ### 📘 My Top Open Source Projects
@@ -109,9 +124,7 @@ Management Information Systems student at Istanbul Nişantaşı University and a
   <div align="center">
 
 ### 💡 *"Clean code always looks like it was written by someone who cares."* – Robert C. Martin
-
-**⭐ From [mertagralii](https://github.com/mertagralii)**
-
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="footer"/>
 </div>
 
 
